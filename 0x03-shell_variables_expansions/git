@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "New task for 0x03."
+git push
