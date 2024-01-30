@@ -3,7 +3,7 @@
 
 i=1
 
-while [[ i ]]
+while (( i ))
 do
 	echo "To infinity and beyond"
 	sleep 2
