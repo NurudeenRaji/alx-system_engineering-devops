@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+git add .
+git commit -m "0x05. Processes and signals"
+git push
