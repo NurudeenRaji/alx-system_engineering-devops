@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 #TCP and UDP listening port and PID
-netstat -pl
+
+netstat -lp
